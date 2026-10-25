@@ -5,4 +5,4 @@ Built by Grande Sorciere.
 
 | Preview | Mod | What it does |
 |---|---|---|
-| <img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/Centered-Typing.gif" width="640" alt="Centered-Typing preview"> | [Centered-Typing](testcord/css/Centered-Typing/README.md) | Centers the typing indicator and hides dots. Works with MochaCord. |
+| <img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/Centered-Typing.gif" width="200" alt="Centered-Typing preview"> | [Centered-Typing](testcord/css/Centered-Typing/README.md) | Centers the typing indicator and hides dots. Works with MochaCord. |

@@ -1,7 +1,7 @@
 /*
  * typing-centered.css
  * Author: Grande Sorciere
- * Version: 1.0
+ * Version: 1.0.4
  * Center the typing indicator, hide dots, lift it up.
  * For TestCord / Discord mods.
  */
@@ -49,23 +49,4 @@
   margin-top: 6px !important;
   padding-top: 4px !important;
 }
-
-/* 5. Flex layout */
-.vc-typing-indicator {
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  width: 100% !important;
-}
-
-/* 6. Typed avatar wrapper rounds with theme (radial / square toggle) */
-.wrapper__44b0c.vc-typing-tweaks-avatar,
-.vc-typing-tweaks-avatar,
-.wrapper__44b0c {
-  border-radius: var(--radius-md) !important;
-  overflow: hidden !important;
-}
-
 

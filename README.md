@@ -1,7 +1,7 @@
 # Centered Typing
 
 **Author:** Grande Sorciere  
-**Version:** 1.0
+**Version:** 1.0.2
 
 Centers the typing indicator above chat, hides dot animation, shifts it slightly upward.
 
@@ -13,10 +13,16 @@ Centers the typing indicator above chat, hides dot animation, shifts it slightly
 
 ## Install — Online Theme (no download)
 
-Paste this URL into **Settings ▶ Themes ▶ Enable Online Themes ▶ Add**:
+Use `@import` in any theme file, or paste the URL directly:
+
+```css
+@import url("https://raw.githubusercontent.com/Mayvhen/Centered-Typing/main/typing-centered.css");
+```
+
+Or paste this raw URL into **Settings ▶ Themes ▶ Enable Online Themes ▶ Add**:
 
 ```
-https://raw.githubusercontent.com/GrandeSorciere/Centered-Typing/main/typing-centered.css
+https://raw.githubusercontent.com/Mayvhen/Centered-Typing/main/typing-centered.css
 ```
 
 Then turn **Centered Typing** on.

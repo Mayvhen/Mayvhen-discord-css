@@ -60,4 +60,12 @@
   width: 100% !important;
 }
 
+/* 6. Typed avatar wrapper rounds with theme (radial / square toggle) */
+.wrapper__44b0c.vc-typing-tweaks-avatar,
+.vc-typing-tweaks-avatar,
+.wrapper__44b0c {
+  border-radius: var(--radius-md) !important;
+  overflow: hidden !important;
+}
+
 

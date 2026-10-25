@@ -1,19 +1,21 @@
 # Centered-Typing
 
-Centers the typing indicator and hides dots. Works with MochaCord / TestCord.
+Centers the typing indicator and hides dots for TestCord / MochaCord.
 
-**Preview:** [Centered-Typing.gif](media/Centered-Typing.gif) 🎥
+**Preview:** [media/Centered-Typing.gif](media/Centered-Typing.gif) 🎥
 
-## Features
+---
 
-- Centers the typing indicator (`.vc-typing-indicator`)
-- Hidden dot animation (`.dots_b88801`, `.typing_b88801`)
-- Lifted vertical position (`translateY(-4px)`)
-- Scaled gap for multi-line input (`margin-top: 6px`)
-- Square-rounded avatar wrapper override for radial status themes (`.wrapper__44b0c.vc-typing-tweaks-avatar`, `.vc-typing-tweaks-user`, `.avatar__44b0c`, `.avatarStack__44b0c`)
-- Mask kill (`#svg-mask-avatar-default`) to prevent plugin SVG clipping
-- Auth name (`Grande Sorciere`) and version (`1.0.4`) included in theme header
-- Clean, numbered, readable CSS (`typing-centered.css`)
+## What the CSS does
+
+- **Centers the indicator** — moves the typing dot animation to the middle of the chat input instead of left-aligned.
+- **Removes bouncing dots** — hides the animated dot sequence so it doesn't distract.
+- **Lifts it up** — raises the indicator slightly so it doesn't sit flush against the bottom of the box.
+- **Scales the gap** — adds a small top gap when multi-line typing is active, keeping spacing clean.
+- **Square avatar fix** — fixes avatar shapes when used with radial status / square-rounded themes.
+- **Mask removal** — removes an SVG mask that can clip the avatar.
+
+---
 
 ## Import
 
@@ -21,8 +23,7 @@ Centers the typing indicator and hides dots. Works with MochaCord / TestCord.
 @import url("https://raw.githubusercontent.com/Mayvhen/The-Witch-Repo/main/testcord/css/Centered-Typing/typing-centered.css");
 ```
 
-## Download
+---
 
-https://github.com/Mayvhen/The-Witch-Repo/releases
-
-Built with help from OpenCode AI. Author: Grande Sorciere (`Mayvhen`).
+**Author:** Grande Sorciere (`Mayvhen`) — `v1.0.4`  
+Built with help from OpenCode AI.

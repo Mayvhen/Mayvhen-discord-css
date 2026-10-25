@@ -35,12 +35,22 @@
 .typing,
 .typingIndicator {
   position: relative !important;
-  top: -30px !important;
-  transform: translateY(-30px) !important;
-  margin-top: -30px !important;
+  top: -4px !important;
+  transform: translateY(-4px) !important;
+  margin-top: -4px !important;
 }
 
-/* 4. Flex layout */
+/* 4. Close gap between chat input and typing indicator */
+.chatContent_f75fb0 > .form_f75fb0,
+.form_f75fb0,
+.chatContent_f75fb0 .typing_b88801,
+.typing_b88801,
+.vc-typing-indicator {
+  margin-top: -8px !important;
+  padding-top: 0 !important;
+}
+
+/* 5. Flex layout */
 .vc-typing-indicator {
   display: flex !important;
   justify-content: center !important;
@@ -49,3 +59,5 @@
   margin-right: auto !important;
   width: 100% !important;
 }
+
+

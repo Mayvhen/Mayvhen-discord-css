@@ -1,6 +1,7 @@
-# discord-themes
+# Themes/CSS
 
-A portfolio of Discord / TestCord CSS themes and tweaks, built by hand.
+Theme and CSS customizations that work with TestCord ([github.com/TestcordDev/TestCord](https://github.com/TestcordDev/TestCord)).
+Built by Grande Sorciere.
 
 | Preview | Mod | What it does |
 |---|---|---|

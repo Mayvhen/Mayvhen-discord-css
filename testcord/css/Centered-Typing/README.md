@@ -2,7 +2,7 @@
 
 Centers the typing indicator and hides dots for TestCord / MochaCord.
 
-**Preview:** [media/Centered-Typing.gif](media/Centered-Typing.gif) 🎥
+![Centered-Typing preview](https://github.com/Mayvhen/The-Witch-Repo/raw/main/testcord/css/Centered-Typing/media/Centered-Typing.gif)
 
 ---
 

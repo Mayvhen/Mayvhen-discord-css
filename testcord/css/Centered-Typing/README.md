@@ -27,3 +27,7 @@ Centers the typing indicator and hides dots for TestCord / MochaCord.
 
 **Author:** Grande Sorciere (`Mayvhen`) — `v1.0.4`  
 Built with help from OpenCode AI.
+
+---
+
+**Release:** [v1.0.0](https://github.com/Mayvhen/The-Witch-Repo/releases)

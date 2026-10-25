@@ -27,3 +27,7 @@ Rounded square avatars with colored radial status rings.
 
 **Author:** Grande Sorciere (`Mayvhen`) — `v2.0.11`  
 Built with help from OpenCode AI.
+
+---
+
+**Release:** [v1.0.0](https://github.com/Mayvhen/The-Witch-Repo/releases)

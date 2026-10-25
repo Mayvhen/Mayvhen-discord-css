@@ -40,14 +40,14 @@
   margin-top: -4px !important;
 }
 
-/* 4. Close gap between chat input and typing indicator */
+/* 4. Keep gap scaled to match new indicator height */
 .chatContent_f75fb0 > .form_f75fb0,
 .form_f75fb0,
 .chatContent_f75fb0 .typing_b88801,
 .typing_b88801,
 .vc-typing-indicator {
-  margin-top: -8px !important;
-  padding-top: 0 !important;
+  margin-top: 6px !important;
+  padding-top: 4px !important;
 }
 
 /* 5. Flex layout */

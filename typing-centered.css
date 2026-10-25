@@ -1,0 +1,51 @@
+/*
+ * typing-centered.css
+ * Author: Grande Sorciere
+ * Version: 1.0
+ * Center the typing indicator, hide dots, lift it up.
+ * For TestCord / Discord mods.
+ */
+
+/* 1. Center the typing area */
+.vc-typing-indicator,
+.typing,
+.typingIndicator,
+[class*="typing"] {
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+/* 2. Hide animation dots */
+.dots_b88801,
+.typing_b88801 .dots_b88801,
+.vc-typing-indicator-dots,
+.vc-typing-indicator > div:nth-of-type(2),
+[class*="typing-indicator-dots"] {
+  display: none !important;
+  visibility: hidden !important;
+  animation: none !important;
+  height: 0 !important;
+  width: 0 !important;
+  overflow: hidden !important;
+}
+
+/* 3. Lift the indicator up */
+.vc-typing-indicator,
+.typing_b88801,
+.typing,
+.typingIndicator {
+  position: relative !important;
+  top: -30px !important;
+  transform: translateY(-30px) !important;
+  margin-top: -30px !important;
+}
+
+/* 4. Flex layout */
+.vc-typing-indicator {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}

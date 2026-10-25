@@ -2,7 +2,7 @@
 
 SMS-style chat bubbles, rounded corners.
 
-**Preview:** <img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/chat-preview.png" width="320" alt="Chat Bubbles preview"> 🎥
+**Preview:** <img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/chat-preview.png" width="600" alt="Chat Bubbles preview">
 
 ---
 

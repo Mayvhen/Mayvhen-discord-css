@@ -2,17 +2,18 @@
 
 Rounded square avatars with colored radial status rings.
 
-**What the CSS does:**
+<img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/radial-preview-v2.png" width="640" alt="Radial Status + Square Rounded preview">
 
-- **Rounded square avatars** — gives avatar images a `10px` rounded-corner shape (`border-radius: var(--rounder)`) instead of a circle or square.
-- **Radial status rings** — draws a colored ring around the avatar for each status: online (`#a8b665`), idle (`#d8a656`), do not disturb (`#ea6962`), offline (`#a79a83`), streaming (`#d3869b`), invisible (`#d4be9866`).
-- **Kills avatar masks** — removes SVG masks that clip avatars back to circles (`-webkit-mask: none`, `mask: none`), so the square shape stays intact.
-- **Status pill hidden** — hides the mobile/phone status indicator (`display: none`) so only the ring shows.
-- **Speaking ring** — matches the rounded square radius (`var(--speaking-ring-radius)`) for voice-channel speaking borders.
-- **Works with typing tweaks** — compatible with centered-typing avatar fixes (`.vc-typing-tweaks-avatar`).
-- **Private-channel fix** — removes masks and applies rounded corners to avatars in the private-channels list (`[data-list-item-id^="private-channels"]`).
+---
 
-<img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/radial-preview-v2.png" width="640" alt="Radial Status Square Rounded preview">
+## What the CSS does
+
+- **Rounded square avatars** — gives avatar images a rounded-corner shape (`border-radius: var(--rounder)`) instead of a circle or square.
+- **Radial status rings** — draws colored rings around avatars for each status: online, idle, DND, offline, streaming.
+- **Kills avatar masks** — removes SVG masks (`-webkit-mask: none`, `mask: none`) so square shapes stay intact.
+- **Hidden phone indicator** — hides mobile/phone status icon (`display: none`).
+- **Speaking ring match** — aligns voice-channel speaking borders with square avatar radius.
+- **Private-channel fix** — applies rounded corners and removes masks in the DM list (`[data-list-item-id^="private-channels"]`).
 
 ---
 

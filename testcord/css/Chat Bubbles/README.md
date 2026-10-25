@@ -1,18 +1,18 @@
 # Chat Bubbles
 
-SMS-style chat bubbles, rounded corners.
+SMS-style chat bubbles with rounded corners.
 
-**Preview:** <img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/chat-preview.png" width="600" alt="Chat Bubbles preview">
+<img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/chat-preview.png" width="640" alt="Chat Bubbles preview">
 
 ---
 
 ## What the CSS does
 
-- **SMS-style bubbles** — applies a light transparent background (`rgba(255, 255, 255, 0.075)`) so bubbles match SMS/chat style.
+- **SMS-style bubbles** — applies a light transparent background (`rgba(255, 255, 255, 0.075)`) so bubbles match chat style.
 - **Rounded corners** — `10px` radius (`border-radius: var(--chat-bubble-radius)`) on message bubbles.
 - **Rounded first message** — the first message in a group (`.groupStart__5126c`) rounds all four corners instead of just the right side.
 - **Fit-content width** — bubbles only take the width they need (`fit-content`) instead of stretching full width.
-- **Full-width fallback** — keeps messages responsive within the chat area.
+- **Responsive layout** — keeps messages within the chat area.
 
 ---
 

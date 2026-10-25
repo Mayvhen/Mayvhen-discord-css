@@ -2,7 +2,8 @@
 
 Theme and CSS customizations that work with [TestCord](https://github.com/TestcordDev/TestCord).
 Built by Grande Sorciere.  
-**Theme:** [MochaCord](https://github.com/DavidHiFi/MochaCord) by DavidHiFi.
+
+**Theme i use:** [MochaCord](https://github.com/DavidHiFi/MochaCord) by DavidHiFi.
 
 | Preview | Mod | What it does | Release |
 |---|---|---|---|

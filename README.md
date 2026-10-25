@@ -1,6 +1,6 @@
 # Themes/CSS
 
-Theme and CSS customizations that work with TestCord ([github.com/TestcordDev/TestCord](https://github.com/TestcordDev/TestCord)).
+Theme and CSS customizations that work with [TestCord](https://github.com/TestcordDev/TestCord).
 Built by Grande Sorciere.
 
 | Preview | Mod | What it does |

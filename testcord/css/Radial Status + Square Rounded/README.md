@@ -12,7 +12,7 @@ Rounded square avatars with colored radial status rings.
 - **Works with typing tweaks** — compatible with centered-typing avatar fixes (`.vc-typing-tweaks-avatar`).
 - **Private-channel fix** — removes masks and applies rounded corners to avatars in the private-channels list (`[data-list-item-id^="private-channels"]`).
 
-<img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/radial-status-square-rounded.png" width="640" alt="Radial Status Square Rounded preview">
+<img src="https://github.com/Mayvhen/The-Witch-Repo/raw/main/media/preview/radial-preview-v2.png" width="640" alt="Radial Status Square Rounded preview">
 
 ---
 

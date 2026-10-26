@@ -20,7 +20,7 @@ Centers the typing indicator and hides dots for TestCord / MochaCord.
 ## Import
 
 ```text
-@import url("https://raw.githubusercontent.com/Mayvhen/The-Witch-Repo/main/testcord/css/Centered-Typing/typing-centered.css");
+@import url("https://raw.githubusercontent.com/Mayvhen/The-Witch-Repo/main/testcord/css/Centered-Typing/Centered-Typing.css");
 ```
 
 ---

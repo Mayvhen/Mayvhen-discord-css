@@ -4,7 +4,7 @@ This repo is maintained by Grande Sorciere (`Mayvhen`).
 
 Issues and pull requests for the `testcord/css/` themes are welcome.
 
-- **Centered-Typing:** `testcord/css/Centered-Typing/typing-centered.css`
+- **Centered-Typing:** `testcord/css/Centered-Typing/Centered-Typing.css`
 - **Radial Status + Square Rounded:** `testcord/css/Radial Status + Square Rounded/Radial Status + Square Rounded.css`
 - **Chat Bubbles:** `testcord/css/Chat Bubbles/Chat Bubbles.css`
 - Preview media: `media/preview/`
